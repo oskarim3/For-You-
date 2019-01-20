@@ -27,7 +27,7 @@
 
 <tr>
 	<td>Primer concierto juntos</td>
-	<td><center><img src="img/13A.jpg" width="300" height="350"></center></td>
+	<td><center><img src="img/13A.jpg" width="400" height="350"></center></td>
 	<td><audio controls="audiocontrols"><source src="audio/Arwrarwrirwrarwro.mp3"></audio></td>
 </tr>
 <tr>
