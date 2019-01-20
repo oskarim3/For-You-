@@ -5,13 +5,13 @@
 	
 		<body background="img/G1.gif" text="#E70000">
 <font color="#0A53B6" size="50" face="Times New Roman">
-<i><u><center>20/01/19.</i></u></center>
+<i><u><center>20/01/19</center>
 <br>
-<u><center>1...2...3...4...5...6 meses</u></center>
+<u><center>1...2...3...4...5...6 meses</center>
 <br>
 <font color="#9600C6" size="20" face="Times New Roman">
 <center><i>Te quiero mucho</i> (por la integral de todo lo demas 7u7) </center>
-<i><center>Tadeo Santiago</i></center>
+<i><center>Tadeo Santiago</center>
 <center>Espero que te guste el pequeño mundo que hice en HTML</center>
 <font color="#F9EA08" size="20" face="Times New Roman">
 	
