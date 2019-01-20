@@ -24,6 +24,66 @@
 	<td>Foto</td>
 	<td>Canciones</td>
 </tr>
+<tr>
+	<td>El planetario</td>
+	<td><center><img src="img/1A.jpg" width="200" height="250"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Dos Soledades.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Casi nos mata una rama</td>
+	<td><center><img src="img/2A.jpg" width="200" height="250"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Birtday.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Chapu</td>
+	<td><center><img src="img/3A.jpg" width="200" height="250"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Mi Persona Favorita.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Me enseñaste CU</td>
+	<td><center><img src="img/4A.jpg" width="200" height="300"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/No Hay Nadie Más.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Muchas ganas de estar chingando xD</td>
+	<td><center><img src="img/5A.jpg" width="200" height="300"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Maire Pobre Gatito.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Chapu y su lado gatuno</td>
+	<td><center><img src="img/6A.jpg" width="200" height="250"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Maire silicon.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Cineteca y el terrors</td>
+	<td><center><img src="img/7A.jpg" width="200" height="300"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Un Amor de Verdad.m4a"></audio></td>
+</tr>
+<tr>
+	<td>Chalco y tu casa</td>
+	<td><center><img src="img/8A.jpg" width="300" height="200"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Ven A Mí.mp3"></audio></td>
+</tr>
+<tr>
+	<td>La primera vez cocinando juntos</td>
+	<td><center><img src="img/9A.jpg" width="200" height="300"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Contigo puedo ser quien soy.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Museo de la luz</td>
+	<td><center><img src="img/10A.jpg" width="350" height="300"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Shallow.mp3"></audio></td>
+</tr>
+<tr>
+	<td>Desfile de día de muertos</td>
+	<td><center><img src="img/11A.jpg" width="300" height="350"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Dark Horse.mp3"></audio></td>
+</tr>
+<tr>
+	<td>FAC ING</td>
+	<td><center><img src="img/12A.jpg" width="200" height="250"></center></td>
+	<td><audio controls="audiocontrols"><source src="audio/Me estoy enamorando.mp3"></audio></td>
+</tr>
 
 <tr>
 	<td>Primer concierto juntos</td>
