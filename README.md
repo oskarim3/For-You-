@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 	<head>
 	</head>
@@ -17,8 +16,7 @@
 	
 <hr>
 <br>
-<table></center>
-<table border="2">
+<table>
 <tr>
 	<td>Lugar</td>
 	<td>Foto</td>
