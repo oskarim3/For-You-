@@ -17,7 +17,7 @@
 	
 <hr>
 <br>
-<center><table></center>
+<table></center>
 <table border="2">
 <tr>
 	<td>Lugar</td>
