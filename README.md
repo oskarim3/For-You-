@@ -87,7 +87,7 @@
 
 <tr>
 	<td>Primer concierto juntos</td>
-	<td><center><img src="img/13A.jpg" width="400" height="350"></center></td>
+	<td><center><img src="img/13A.jpg" width="400" height="500"></center></td>
 	<td><audio controls="audiocontrols"><source src="audio/Arwrarwrirwrarwro.mp3"></audio></td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@
 </tr>
 <tr>
 	<td>Nuestro libro de aventuras</td>
-	<td><center><img src="img/16A.jpeg" width="300" height="350"></center></td>
+	<td><center><img src="img/16A.jpeg" width="300" height="450"></center></td>
 	<td><audio controls="audiocontrols"><source src="audio/Better.mp3"></audio></td>
 </tr>
 
