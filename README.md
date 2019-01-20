@@ -106,6 +106,4 @@
 
 </table>
 </font>	
-		</body bgcolor="red">
-
-</html>
+		
