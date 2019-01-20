@@ -81,7 +81,7 @@
 </tr>
 <tr>
 	<td>FAC ING</td>
-	<td><center><img src="img/12B.jpg" width="200" height="250"></center></td>
+	<td><center><img src="img/11A.jpg" width="200" height="250"></center></td>
 	<td><audio controls="audiocontrols"><source src="audio/Me estoy enamorando.mp3"></audio></td>
 </tr>
 
