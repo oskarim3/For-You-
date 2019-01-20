@@ -102,7 +102,7 @@
 </tr>
 <tr>
 	<td>Nuestro libro de aventuras</td>
-	<td><center><img src="img/16A.jpeg" width="300" height="450"></center></td>
+	<td><center><img src="img/16A.jpeg" width="350" height="450"></center></td>
 	<td><audio controls="audiocontrols"><source src="audio/Better.mp3"></audio></td>
 </tr>
 
